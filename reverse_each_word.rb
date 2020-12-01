@@ -4,6 +4,5 @@ def reverse_each_word (sentance_1)
   puts "olleH ,ereht dna woh era ?uoy"
 end
 
-def reverse_each_word (sentance_2)
-end
+
 
